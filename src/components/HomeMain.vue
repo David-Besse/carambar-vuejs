@@ -11,7 +11,7 @@ export default {
   methods: {
     async getRandomJoke() {
       try {
-        const response = await axios.get('https://carambar-api-eq5f.onrender.com/blagues/random')
+        const response = await axios.get('https://carambar-api-eq5f.onrender.com/api/blagues/random')
         this.joke = response.data.joke
         this.answer = response.data.answer
       } catch (error) {
