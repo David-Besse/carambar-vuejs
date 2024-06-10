@@ -1,7 +1,7 @@
 <template>
   <header>
     <h1>Bienvenue sur Blagues Carambar !</h1>
-    <p>cliquez sur le logo pour faire aparaitre une blague</p>
+    <p>cliquez sur le logo pour faire apparaître une blague</p>
   </header>
 </template>
 
@@ -20,6 +20,7 @@ header h1 {
   text-align: center;
   font-size: 2.4rem;
   font-weight: 400;
+  color: #2c3e50;
 }
 
 header p {

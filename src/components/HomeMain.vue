@@ -82,6 +82,7 @@ main {
 .joke {
   text-align: center;
   font-style: italic;
+  color: #2c3e50;
 }
 
 .answer {
