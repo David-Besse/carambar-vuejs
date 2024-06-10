@@ -15,3 +15,5 @@ Backend: Nest.js/Sequelize/SQlite hosted on Render
 Source code : <https://github.com/David-Besse/carambar>
 
 ------
+
+API docs : <https://carambar-api-eq5f.onrender.com/api/docs>
