@@ -57,6 +57,7 @@ main {
 
 .btn-logo:hover {
   transform: scale(1.1);
+  background-color: #ffee00;
 }
 
 .img-logo {
